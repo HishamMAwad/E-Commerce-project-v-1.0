@@ -1,0 +1,27 @@
+/**************************************** MainMenu Style **********************************************/
+  
+  
+  #navbar2 {
+    background-color: #dedfe0 !important;
+  }
+
+  #menu-brand {
+      display: none;
+  }
+
+  #menu-items {
+    color: rgb(65, 64, 62) !important;
+    padding: 0 15px 0 15px;
+  }
+
+  #menu-items-container {
+      margin-right: auto !important;
+  }
+  
+
+  @media screen and (max-width: 768px) {
+    #menu-brand {
+        color: rgb(65, 64, 62) !important;
+        display: block;
+    }
+  }

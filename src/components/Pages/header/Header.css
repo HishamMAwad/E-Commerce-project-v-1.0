@@ -1,0 +1,41 @@
+/**************************************** NavBar Style **********************************************/
+
+.navbar {
+    padding-top: 15px !important;
+    padding-bottom: 15px !important;
+    background-color: rgb(65, 64, 62) !important;
+  }
+  
+  
+  .navbar-brand {
+    margin-left: 50px !important;
+    font-size: 25px !important;
+    color: #f8f9fa !important;
+  }
+  
+  .btn-outline-success:hover {
+    background-color: #17a2b8;
+    border: none;
+  }
+  
+  .btn-outline-success{
+    border-color: #f8f9fa !important;
+    color: #f8f9fa;
+  }
+  
+  .form-inline {
+    margin-left: auto !important;
+  }
+  
+  
+  .navbar-nav {
+    margin-left: auto !important;
+    margin-right: 50px !important;
+  }
+  
+  .navbar-nav a {
+    color: #f8f9fa !important;
+  }
+
+
+
